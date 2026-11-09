@@ -11,11 +11,11 @@ An end-to-end Power BI project analyzing registrations, revenue, attendance and 
 
 ### Page 1 — Event Overview
 
-![Event Overview](page1_event_overview.png)
+![Event Overview](event_overview.png)
 
 ### Page 2 — Key Insights
 
-![Key Insights](page2_key_insights.png)
+![Key Insights](key_insights.png)
 
 ---
 
