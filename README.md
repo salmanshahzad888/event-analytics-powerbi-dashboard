@@ -81,7 +81,6 @@ Total Registrations · Total Events · Total Attendees · Attended Registrations
 | File | Description |
 |---|---|
 | `Event_Analytics_Dashboard.pbix` | Power BI file: cleaned data, model, DAX measures and report |
-| `Event_Analytics_Dashboard.pdf` | PDF export of both report pages |
 | `EventTheme.json` | Custom report theme |
 | `PowerBI_Event_Analytics_Dataset.xlsx` | Raw source data, before cleaning |
 
