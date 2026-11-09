@@ -1,0 +1,40 @@
+{
+  "name": "Event Analytics Modern",
+  "dataColors": ["#1E6FD9", "#F2994A", "#E05252", "#2E9E6B", "#8B5CF6", "#14B8A6", "#F2C94C", "#64748B"],
+  "background": "#FFFFFF",
+  "foreground": "#1F2937",
+  "tableAccent": "#1F3B73",
+  "textClasses": {
+    "callout": { "color": "#1E6FD9" },
+    "title": { "color": "#1F3B73" },
+    "label": { "color": "#374151" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E5EB" } }, "radius": 12 }],
+        "dropShadow": [{ "show": true }],
+        "title": [{ "fontColor": { "solid": { "color": "#1F3B73" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F6FA" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F3F6FA" } }, "transparency": 0 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#1E6FD9" } } }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#6B7280" } } }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "backColor": { "solid": { "color": "#1F3B73" } } }],
+        "values": [{ "backColorPrimary": { "solid": { "color": "#FFFFFF" } }, "backColorSecondary": { "solid": { "color": "#F7F9FC" } } }]
+      }
+    }
+  }
+}
