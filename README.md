@@ -4,6 +4,7 @@ An end-to-end Power BI project analyzing registrations, revenue, attendance and 
 
 **Tools:** Power BI Desktop · Power Query (M) · DAX · Data Modeling · JSON Theme  
 **Dataset:** Simulated event data. 6 events · 20 sessions · 420 attendees · 1,800 registrations · session feedback records
+
 ---
 
 ## 📊 Dashboard
