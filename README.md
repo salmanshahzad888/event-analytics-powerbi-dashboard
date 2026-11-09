@@ -1,6 +1,6 @@
 # 🎟️ Event Analytics Dashboard (Power BI)
 
-An end-to-end Power BI project analyzing registrations, revenue, attendance and attendee feedback across 6 tech events in Pakistan: data cleaning in Power Query, a star-schema model, 14 DAX measures, a custom JSON theme and a 2-page interactive report.
+An end-to-end Power BI project analyzing registrations, revenue, attendance and attendee feedback across 6 tech events in Pakistan: data cleaning in Power Query, a star-schema model, 14 DAX measures, a custom JSON theme, and a one-page interactive dashboard with a separate key insights page.
 
 **Tools:** Power BI Desktop · Power Query (M) · DAX · Data Modeling · JSON Theme  
 **Dataset:** Synthetic event data provided for a Power BI class activity at atomcamp. 6 events · 20 sessions · 420 attendees · 1,800 registrations · session feedback records
